@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<! Welcome html>
 <html>
 <head>
     <title>Prince Kumar - Portfolio</title>
