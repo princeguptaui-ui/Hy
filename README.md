@@ -66,7 +66,7 @@
 <section>
     <h2>Education</h2>
     <img src="school.jpg" alt="School Image" class="school-img">
-    <p><strong>School Name:</strong> International School</p>
+    <p><strong>School Name:</strong>  Pride International School</p>
     <p><strong>Class:</strong> 9th</p>
     <p><strong>Academic Year:</strong> 2025-2026</p>
 </section>
