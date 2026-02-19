@@ -1,4 +1,4 @@
- <h1>Welcome<h1>
+ <b>Welcome<b>
 <html>
 <head>
     <title>Prince Kumar - Portfolio</title>
